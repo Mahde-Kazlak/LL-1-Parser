@@ -1,0 +1,13 @@
+begin
+id
+=
+id
+-
+num
+,
+put
+(
+id
+)
+,
+end.
